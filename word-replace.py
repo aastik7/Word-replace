@@ -1,6 +1,9 @@
 def replace_word():
-
-    str = "Hi guys, I am Aastik, and hi"
+    input_string = "Hi guys, I am Aastik"
     word_to_replace = input("Enter the word to replace: ")
     word_replacement = input("Enter the word replacement: ")
     
+    replaced_string = input_string.replace(word_to_replace, word_replacement)
+    print("Modified string:", replaced_string)
+
+replace_word()
