@@ -7,7 +7,7 @@ This Python script allows you to replace a specified word in a given string.
 1. **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/your-username/replace-word.git](https://github.com/aastik7/Word-replace)
+    git clone https://github.com/aastik7/Word-replace
     ```
 
 2. **Navigate to the project directory:**
