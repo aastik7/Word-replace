@@ -1,5 +1,5 @@
 def replace_word():
-    input_string = "Hi guys, I am Aastik"
+    input_string = "Hi guys, I am John"
     word_to_replace = input("Enter the word to replace: ")
     word_replacement = input("Enter the word replacement: ")
     
